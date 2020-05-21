@@ -120,6 +120,7 @@ $(function() {
             } else {
                 button.addClass('active-btn');
                 addTask.show();
+                $('.activities-wrapper input[type=text]').focus();
             }
         });
 
