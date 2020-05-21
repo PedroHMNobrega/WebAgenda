@@ -1,2 +1,2 @@
 # WebAgenda
-Calendar Web App with To-do do list
+Calendar web app with to-do do list.
